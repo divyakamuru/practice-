@@ -15,6 +15,4 @@ then
 else
 	echo "Number is not palindrome"
 fi
-© 2021 GitHub, Inc.
-Terms
-Privacy
+
